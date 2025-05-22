@@ -1,1 +1,8 @@
+# Secrets and config
 config.json
+
+.env
+study_data.json
+
+# Build artifacts
+accountabot*
